@@ -98,7 +98,7 @@ Formatting '/var/tmp/WIN25_IMG.qcow2', fmt=qcow2 cluster_size=65536 extended_l2=
 #######################################################
 #         Server 2025 Image Creation Finished         #
 #######################################################
-sysadmin@cml-controller:~/cml_image_creator$
+sysadmin@cml-controller:~/cml-windows-image-creator$
 ```
 6. Confirm the node and image definitions are created and ready for use
 
