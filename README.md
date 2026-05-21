@@ -31,12 +31,12 @@ The script will create a custom Windows 11 or Windows Server 2025 ISO image with
 
 1. Download from github
 ```
-git clone https://github.com/markghs/CML_Windows_Image_Creator
+git clone https://github.com/markghs/cml-windows-image-creator
 ```
 
 2. Change directory
 ```
-cd CML_Windows_Image_Creator
+cd cml-windows-image-creator
 ```
 
 ## Usage
