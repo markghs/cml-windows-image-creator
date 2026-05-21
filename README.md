@@ -100,7 +100,7 @@ Formatting '/var/tmp/WIN25_IMG.qcow2', fmt=qcow2 cluster_size=65536 extended_l2=
 #######################################################
 sysadmin@cml-controller:~/cml-windows-image-creator$
 ```
-6. Confirm the node and image definitions are created and ready for use
+6. Confirm the node and image definitions are created and ready for use in the CML interface
 
 <img width="2136" height="968" alt="cml_nd" src="https://github.com/user-attachments/assets/fb7f2867-14b7-49b7-b03b-4c8438924075" />
 
